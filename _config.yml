@@ -28,7 +28,10 @@ plugins:
   - jekyll-feed
 
 # Set the pages and order that appear in the header
-# header_pages:
+header_pages:
+  - resources-stu.md
+  - resources-edu.md
+  - about.md
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
