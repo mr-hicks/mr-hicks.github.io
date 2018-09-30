@@ -33,6 +33,10 @@ header_pages:
   - resources-edu.md
   - about.md
 
+collections:
+  lesson:
+    output: true
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
