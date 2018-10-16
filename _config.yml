@@ -34,8 +34,13 @@ header_pages:
   - about.md
 
 collections:
-  lesson:
+  u02-atoms:
     output: true
+  u03-chemistry:
+    output: true
+
+
+# collections_dir: my_collections
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
