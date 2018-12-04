@@ -79,6 +79,9 @@ The notation is called **Lewis Dot Structures** and is explained in more detail 
 
 The goal of every atom is to have 8 valence electrons, so they will share to reach that goal.
 
+#ToDo
+Finish lewis dot structures, talk about oxidation numbers, criss-cross, metallic bonding,
+
 
 
 

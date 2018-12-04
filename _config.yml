@@ -38,6 +38,8 @@ collections:
     output: true
   u03-chemistry:
     output: true
+  labreports:
+    output: true
 
 
 # collections_dir: my_collections
