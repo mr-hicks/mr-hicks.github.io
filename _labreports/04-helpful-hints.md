@@ -181,7 +181,7 @@ Simply record your observations, if you were absent, then simply say so in those
 The hard part is getting the correct molecules on the product side since I don't give them to you.
 Here they are:
 
-  4.  __ NaOH + __ Ag[NO3] --> __ AgOH + __ NA[NO3]
+  4.  __ NaOH + __ Ag[NO3] --> __ AgOH + __ Na[NO3]
   5.  __ CaCl2 + __ Na2[CO3] --> __ NaCl + Ca[CO3]
   6.  __ KI + __ Pb[NO3]2 --> __ PbI2 + __ K2[NO3]2
 
