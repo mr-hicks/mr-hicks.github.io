@@ -1,5 +1,5 @@
 ---
 layout: student-resource
-title: Student Resoucres
+title: Student Resources
 permalink: /resources-stu/
 ---
