@@ -30,7 +30,8 @@ plugins:
 # Set the pages and order that appear in the header
 header_pages:
   - resources-stu.md
-  - resources-edu.md
+#  - resources-edu.md
+  - recipes.md
   - about.md
 
 collections:
@@ -39,6 +40,8 @@ collections:
   u03-chemistry:
     output: true
   labreports:
+    output: true
+  images:
     output: true
 
 
