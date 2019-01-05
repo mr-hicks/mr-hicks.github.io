@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  <!-- {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }} -->
+
+  {%- if site.u-motion.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Motion" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.u-motion -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  {%- if site.u-electronics.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Electronics" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.u-electronics -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  {%- if site.u-waves.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Waves" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.u-waves -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  {%- if site.u-atoms.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Atoms" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.u-atoms -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  {%- if site.u-chemistry.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Chemistry" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.u-chemistry -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  {%- if site.labreports.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Lab Reports" }}</h2>
+    <ul class="post-list">
+      {%- for lesson in site.labreports -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ lesson.url | relative_url }}">
+            {{ lesson.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ lesson.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  
+
+</div>

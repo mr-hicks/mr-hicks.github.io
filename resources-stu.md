@@ -1,5 +1,5 @@
 ---
-layout: student-resource
-title: Student Resources
+layout: resources-stu
+title: Students
 permalink: /resources-stu/
 ---

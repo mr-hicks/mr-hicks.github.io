@@ -27,23 +27,35 @@ theme: minima
 plugins:
   - jekyll-feed
 
+excerpt_separator: <!--more-->
+show_excerpts: true
+
 # Set the pages and order that appear in the header
 header_pages:
   - resources-stu.md
-#  - resources-edu.md
+  - resources-edu.md
   - recipes.md
   - about.md
 
 collections:
-  u02-atoms:
+  u-motion:
     output: true
-  u03-chemistry:
+  u-electronics:
+    output: true
+  u-waves:
+    output: true
+  u-atoms:
+    output: true
+  u-chemistry:
     output: true
   labreports:
     output: true
   images:
     output: true
-
+  edu-standards:
+    output: true
+  edu-iprs:
+    output: true
 
 # collections_dir: my_collections
 

@@ -3,49 +3,11 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!-- {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+ -->
   {{ content }}
 
-  {%- if site.u03-chemistry.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Unit 3 - Chemistry" }}</h2>
-    <ul class="post-list">
-      {%- for lesson in site.u03-chemistry -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ lesson.url | relative_url }}">
-            {{ lesson.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ lesson.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-
-  {%- if site.u02-atoms.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Unit 2 - Atoms and the Periodic Table" }}</h2>
-    <ul class="post-list">
-      {%- for lesson in site.u02-atoms -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ lesson.url | relative_url }}">
-            {{ lesson.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ lesson.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-
-
   
-
 </div>

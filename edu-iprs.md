@@ -1,19 +1,13 @@
 ---
 layout: default
+title: Instructional Planning Resource
 ---
 
-<div class="home">
-  
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  {%- if site.labreports.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Lab Reports" }}</h2>
+<div>
+  {%- if site.edu-iprs.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Instructional Planning Resources" }}</h2>
     <ul class="post-list">
-      {%- for lesson in site.labreports -%}
+      {%- for lesson in site.edu-iprs -%}
       <li>
         <h3>
           <a class="post-link" href="{{ lesson.url | relative_url }}">
@@ -27,6 +21,4 @@ layout: default
       {%- endfor -%}
     </ul>
   {%- endif -%}
-  
-
 </div>

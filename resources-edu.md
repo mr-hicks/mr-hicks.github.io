@@ -1,25 +1,9 @@
 ---
-layout: page
-title: Educator Resources
+layout: default
+title: Educators
 permalink: /resources-edu/
 ---
 
-Theoretically, this is supposed to be a collection of resources that I create.
-However, I have not had the time to upload them.
-There should be a matching reflection of each unit/lesson taught.
+## [Instructional Planning Resources](/edu-iprs)
 
-Currently it is just an easy place to share information.
-(Like the recipes of things I make for school functions)
-
-----
-
-<center>
- <img src="/images/cd-banner.pdf"
-  alt="cd-banner" width="50%"/>
-</center>
-
-  * [Black Tea Cardamom Cookies](https://www.delish.com/entertaining/recipes/a50052/black-tea-cardamom-cookies-with-black-tea-icing-recipe/)
-  * [Chocolate Cream Pie](https://www.kingarthurflour.com/recipes/chocolate-cream-pie-recipe)
-  * [Chocolate Sheet Cake](/images/grammy-cake.pdf) (AKA Grammy Cake, opens as a PDF)
-
-----
+## [Standards](/edu-standards)
