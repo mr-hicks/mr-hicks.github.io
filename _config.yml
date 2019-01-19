@@ -56,6 +56,8 @@ collections:
     output: true
   edu-iprs:
     output: true
+  motion:
+    output: true
 
 # collections_dir: my_collections
 
