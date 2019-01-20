@@ -8,4 +8,3 @@ permalink: /resources-edu/
 
 ## [Standards](/edu-standards)
 
-## [Motion](/motion)
