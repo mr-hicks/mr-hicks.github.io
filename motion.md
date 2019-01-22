@@ -17,3 +17,5 @@ Instructional Planning Resource
 [01-16_17.pdf](/motion/01-16_17.pdf)
 
 [01-18_25.pdf](/motion/01-18_25.pdf)
+
+[01-22.pdf](/motion/01-22.pdf)
