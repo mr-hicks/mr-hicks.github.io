@@ -12,6 +12,8 @@ Instructional Planning Resource
 
 [5-momentum.pdf](/motion/5-momentum.pdf)
 
+[6-energy.pdf](/motion/6-energy.pdf)
+
 [tracker-usage-notes.pdf](/motion/tracker-usage-notes.pdf)
 
 [01-14_15.pdf](/motion/01-14_15.pdf)
@@ -23,3 +25,5 @@ Instructional Planning Resource
 [01-22.pdf](/motion/01-22.pdf)
 
 [01-23.pdf](/motion/01-23.pdf)
+
+[01-28_29.pdf](/motion/01-28_29.pdf)
