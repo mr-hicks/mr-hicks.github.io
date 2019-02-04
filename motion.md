@@ -14,6 +14,10 @@ Instructional Planning Resource
 
 [6-energy.pdf](/motion/6-energy.pdf)
 
+[Instructions.pdf](/motion/Instructions.pdf)
+
+[Instructions.pdf](/motion/Instructions.pdf)
+
 [tracker-usage-notes.pdf](/motion/tracker-usage-notes.pdf)
 
 [01-14_15.pdf](/motion/01-14_15.pdf)
@@ -27,3 +31,5 @@ Instructional Planning Resource
 [01-23.pdf](/motion/01-23.pdf)
 
 [01-28_29.pdf](/motion/01-28_29.pdf)
+
+[02-04_05.pdf](/motion/02-04_05.pdf)
