@@ -35,3 +35,5 @@ Instructional Planning Resource
 [02-04_05.pdf](/motion/02-04_05.pdf)
 
 [02-06_07.pdf](/motion/02-06_07.pdf)
+
+[02-11_12.pdf](/motion/02-11_12.pdf)
