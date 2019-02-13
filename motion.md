@@ -14,9 +14,9 @@ Instructional Planning Resource
 
 [6-energy.pdf](/motion/6-energy.pdf)
 
-[Instructions.pdf](/motion/Instructions.pdf)
+[RubberBandCar.pdf](/motion/RubberBandCar.pdf)
 
-[Instructions.pdf](/motion/Instructions.pdf)
+[Catapult.pdf](/motion/Catapult.pdf)
 
 [tracker-usage-notes.pdf](/motion/tracker-usage-notes.pdf)
 
@@ -37,3 +37,5 @@ Instructional Planning Resource
 [02-06_07.pdf](/motion/02-06_07.pdf)
 
 [02-11_12.pdf](/motion/02-11_12.pdf)
+
+[02_13-14.pdf](/motion/02_13-14.pdf)
