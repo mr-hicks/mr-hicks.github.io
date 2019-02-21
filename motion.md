@@ -41,3 +41,7 @@ Instructional Planning Resource
 [02_13-14.pdf](/motion/02_13-14.pdf)
 
 [02_15-19.pdf](/motion/02_15-19.pdf)
+
+[02_21-22.pdf](/motion/02_21-22.pdf)
+
+[F 02 21.pdf](/motion/F 02 21.pdf)
