@@ -18,6 +18,8 @@ Instructional Planning Resource
 
 [2-1-Activity.pdf](/motion/2-1-Activity.pdf)
 
+[About_Multimeters.pdf](/motion/About_Multimeters.pdf)
+
 [RubberBandCar.pdf](/motion/RubberBandCar.pdf)
 
 [Catapult.pdf](/motion/Catapult.pdf)
@@ -49,6 +51,8 @@ Instructional Planning Resource
 [02_21-22.pdf](/motion/02_21-22.pdf)
 
 [02_25-26.pdf](/motion/02_25-26.pdf)
+
+[02_27-28.pdf](/motion/02_27-28.pdf)
 
 [F 02 21.pdf](/motion/F 02 21.pdf)
 
