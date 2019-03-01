@@ -58,4 +58,4 @@ Instructional Planning Resource
 
 [F-02-25.pdf](/motion/F-02-25.pdf)
 
-[_Rotation.pdf](/motion/_Rotation.pdf)
+[Rotation.pdf](/motion/Rotation.pdf)
