@@ -54,6 +54,8 @@ Instructional Planning Resource
 
 [02_27-28.pdf](/motion/02_27-28.pdf)
 
+[03_06-07.pdf](/motion/03_06-07.pdf)
+
 [F 02 21.pdf](/motion/F 02 21.pdf)
 
 [F-02-25.pdf](/motion/F-02-25.pdf)
