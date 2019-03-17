@@ -60,6 +60,8 @@ Instructional Planning Resource
 
 [03_06-07.pdf](/motion/03_06-07.pdf)
 
+[03-18_19.pdf](/motion/03-18_19.pdf)
+
 [F 02 21.pdf](/motion/F 02 21.pdf)
 
 [F-02-25.pdf](/motion/F-02-25.pdf)
