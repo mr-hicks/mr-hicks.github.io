@@ -18,6 +18,10 @@ Instructional Planning Resource
 
 [2-1-Activity.pdf](/motion/2-1-Activity.pdf)
 
+[2-2-Magnetism.pdf](/motion/2-2-Magnetism.pdf)
+
+[2-3_Speaker.pdf](/motion/2-3_Speaker.pdf)
+
 [About_Multimeters.pdf](/motion/About_Multimeters.pdf)
 
 [RubberBandCar.pdf](/motion/RubberBandCar.pdf)
