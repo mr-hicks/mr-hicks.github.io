@@ -2,68 +2,70 @@
 layout: default
 Instructional Planning Resource
 ---
-[01-activity-introduction.pdf](/motion/01-activity-introduction.pdf)
+[{basename}](/motion/{basename})
 
-[2-graph-matching.pdf](/motion/2-graph-matching.pdf)
+[{basename}](/motion/{basename})
 
-[3-tracking.pdf](/motion/3-tracking.pdf)
+[{basename}](/motion/{basename})
 
-[4-forces.pdf](/motion/4-forces.pdf)
+[{basename}](/motion/{basename})
 
-[5-momentum.pdf](/motion/5-momentum.pdf)
+[{basename}](/motion/{basename})
 
-[6-energy.pdf](/motion/6-energy.pdf)
+[{basename}](/motion/{basename})
 
-[2-1-Electricity-Handout.pdf](/motion/2-1-Electricity-Handout.pdf)
+[{basename}](/motion/{basename})
 
-[2-1-Activity.pdf](/motion/2-1-Activity.pdf)
+[{basename}](/motion/{basename})
 
-[2-2-Magnetism.pdf](/motion/2-2-Magnetism.pdf)
+[{basename}](/motion/{basename})
 
-[2-3_Speaker.pdf](/motion/2-3_Speaker.pdf)
+[{basename}](/motion/{basename})
 
-[About_Multimeters.pdf](/motion/About_Multimeters.pdf)
+[{basename}](/motion/{basename})
 
-[RubberBandCar.pdf](/motion/RubberBandCar.pdf)
+[{basename}](/motion/{basename})
 
-[Catapult.pdf](/motion/Catapult.pdf)
+[{basename}](/motion/{basename})
 
-[tracker-usage-notes.pdf](/motion/tracker-usage-notes.pdf)
+[{basename}](/motion/{basename})
 
-[01-14_15.pdf](/motion/01-14_15.pdf)
+[{basename}](/motion/{basename})
 
-[01-16_17.pdf](/motion/01-16_17.pdf)
+[{basename}](/motion/{basename})
 
-[01-18_25.pdf](/motion/01-18_25.pdf)
+[{basename}](/motion/{basename})
 
-[01-22.pdf](/motion/01-22.pdf)
+[{basename}](/motion/{basename})
 
-[01-23.pdf](/motion/01-23.pdf)
+[{basename}](/motion/{basename})
 
-[01-28_29.pdf](/motion/01-28_29.pdf)
+[{basename}](/motion/{basename})
 
-[02-04_05.pdf](/motion/02-04_05.pdf)
+[{basename}](/motion/{basename})
 
-[02-06_07.pdf](/motion/02-06_07.pdf)
+[{basename}](/motion/{basename})
 
-[02-11_12.pdf](/motion/02-11_12.pdf)
+[{basename}](/motion/{basename})
 
-[02_13-14.pdf](/motion/02_13-14.pdf)
+[{basename}](/motion/{basename})
 
-[02_15-19.pdf](/motion/02_15-19.pdf)
+[{basename}](/motion/{basename})
 
-[02_21-22.pdf](/motion/02_21-22.pdf)
+[{basename}](/motion/{basename})
 
-[02_25-26.pdf](/motion/02_25-26.pdf)
+[{basename}](/motion/{basename})
 
-[02_27-28.pdf](/motion/02_27-28.pdf)
+[{basename}](/motion/{basename})
 
-[03_06-07.pdf](/motion/03_06-07.pdf)
+[{basename}](/motion/{basename})
 
-[03-18_19.pdf](/motion/03-18_19.pdf)
+[{basename}](/motion/{basename})
 
-[F 02 21.pdf](/motion/F 02 21.pdf)
+[{basename}](/motion/{basename})
 
-[F-02-25.pdf](/motion/F-02-25.pdf)
+[{basename}](/motion/{basename})
 
-[Rotation.pdf](/motion/Rotation.pdf)
+[{basename}](/motion/{basename})
+
+[{basename}](/motion/{basename})
