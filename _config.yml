@@ -58,6 +58,8 @@ collections:
     output: true
   motion:
     output: true
+  electricity:
+    output: true
 
 # collections_dir: my_collections
 
