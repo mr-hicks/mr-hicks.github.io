@@ -3,11 +3,14 @@ layout: default
 title: Educators
 permalink: /resources-edu/
 ---
+## Actual materials given to students
+### [Motion](/motion)
 
-## [Instructional Planning Resources](/edu-iprs)
+### [Electricity](/electricity)
 
-## [Standards](/edu-standards)
+### [Daily Presentations](/presentations)
 
-## [Motion](/motion)
+## Miscellaneous projects from education classes
+### [Instructional Planning Resources](/edu-iprs)
 
-## [Electricity](/electricity)
+### [Standards](/edu-standards)

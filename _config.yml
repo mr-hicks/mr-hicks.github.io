@@ -60,6 +60,8 @@ collections:
     output: true
   electricity:
     output: true
+  presentations:
+    output: true
 
 # collections_dir: my_collections
 
