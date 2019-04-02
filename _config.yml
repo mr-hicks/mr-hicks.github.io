@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
 
 excerpt_separator: <!--more-->
-show_excerpts: true
+show_excerpts: false
 
 # Set the pages and order that appear in the header
 header_pages:
