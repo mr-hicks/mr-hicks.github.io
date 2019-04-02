@@ -2,12 +2,16 @@
 layout: default
 Instructional Planning Resource
 ---
-[1-1 Electricity Basics - Handout.pdf](/electricity/1-1 Electricity Basics - Handout.pdf)
+[1 Introduction.pdf](/motion/1 Introduction.pdf)
 
-[1-2 Electricity Basics - Activity.pdf](/electricity/1-2 Electricity Basics - Activity.pdf)
+[2 Graph Matching.pdf](/motion/2 Graph Matching.pdf)
 
-[2 Magnetism.pdf](/electricity/2 Magnetism.pdf)
+[3 Tracking.pdf](/motion/3 Tracking.pdf)
 
-[3 Speaker.pdf](/electricity/3 Speaker.pdf)
+[4 Forces.pdf](/motion/4 Forces.pdf)
 
-[About Multimeters.pdf](/electricity/About Multimeters.pdf)
+[5 Momentum.pdf](/motion/5 Momentum.pdf)
+
+[6 Energy.pdf](/motion/6 Energy.pdf)
+
+[Tracker Usage Notes.pdf](/motion/Tracker Usage Notes.pdf)
