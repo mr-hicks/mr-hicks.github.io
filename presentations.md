@@ -42,8 +42,6 @@ Instructional Planning Resource
 
 [04-01_04.pdf](/presentations/04-01_04.pdf)
 
-[F 02 21.pdf](/presentations/F 02 21.pdf)
-
-[F-02-25.pdf](/presentations/F-02-25.pdf)
+[04 05.pdf](/presentations/04 05.pdf)
 
 [Rotation.pdf](/presentations/Rotation.pdf)
