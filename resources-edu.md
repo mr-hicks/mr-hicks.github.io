@@ -10,6 +10,8 @@ permalink: /resources-edu/
 
 ### [Daily Presentations](/presentations)
 
+### [Python Self-Paced Rotation](https://github.com/mr-hicks/RotationTracker)
+
 ## Miscellaneous projects from education classes
 ### [Instructional Planning Resources](/edu-iprs)
 
