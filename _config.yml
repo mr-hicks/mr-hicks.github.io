@@ -64,6 +64,8 @@ collections:
     output: true
   researchPaper:
     output: true
+  nsta19:
+    output: true
 
 # collections_dir: my_collections
 

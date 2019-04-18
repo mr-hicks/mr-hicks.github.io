@@ -46,4 +46,10 @@ Instructional Planning Resource
 
 [04 09-10.pdf](/presentations/04 09-10.pdf)
 
+[04 15-16.pdf](/presentations/04 15-16.pdf)
+
+[04 17-18.pdf](/presentations/04 17-18.pdf)
+
+[GradePercentages.pdf](/presentations/GradePercentages.pdf)
+
 [Rotation.pdf](/presentations/Rotation.pdf)

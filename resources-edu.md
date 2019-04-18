@@ -18,3 +18,5 @@ permalink: /resources-edu/
 ### [Instructional Planning Resources](/edu-iprs)
 
 ### [Standards](/edu-standards)
+
+## [NSTA 19 Notes](/nsta19/nsta19)
