@@ -26,8 +26,8 @@ Attached is a copy of their standards for a unit and two examples of how they pr
 
 They broke the content for any given unit down into levels
 
-  * foundational
   * developing
+  * foundational
   * expected
   * advanced.
 
@@ -36,8 +36,8 @@ For a student to pass a level they must demonstrate mastery by getting better th
 
 | Tier | % for Mastery |
 |:-----:|:---------------:|
-| Foundation | 90 |
 | Developing | 90 |
+| Foundation | 90 |
 | Expected | 80 |
 | Advanced | 70 |
 
@@ -111,6 +111,30 @@ Also, by keeping one pace, only labs for a given unit could be happening at the 
 The last thing they all had in common was that at the very start of every class there would be a demonstration of either problems or techniques so that the students would always get started right away and provide incentive for students to arrive on time.
 
 
+# Notes to self
+IIHS classroom for materials and labs based on driver safety
+
+* Especially important at this age
+* A good way to start of the semester with activities
+
+
+## Teaching science as models
+
+* Evaluateing, using, and creating models
+* Explain that any model that allows us to make predictions is good
+* Also explains why there is no 'truth' in science
+* An inconclusive result IS a valid result in science
+* Incorporate problems or penomina as the basis for learning, help students engage.
+
+## Pacing and Instruction
+
+* Begin every class with a teacher led activity to begin cleanly.
+* Keep a given pace for all students, this allows for group activities.
+* Creat an over-arcing narrative to tue units and content
+
+## Grading
+
+* Levels of understanding define the grade, with different percents for mastery of each grade.
 
 
 
