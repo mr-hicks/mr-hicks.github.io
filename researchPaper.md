@@ -6,4 +6,6 @@ Instructional Planning Resource
 
 [0 Overview.pdf](/researchPaper/0 Overview.pdf)
 
+[3 RubricContent.pdf](/researchPaper/3 RubricContent.pdf)
+
 [2 Rubric.pdf](/researchPaper/2 Rubric.pdf)
