@@ -52,6 +52,8 @@ Instructional Planning Resource
 
 [04 22-23.pdf](/presentations/04 22-23.pdf)
 
+[04 24-25.pdf](/presentations/04 24-25.pdf)
+
 [GradePercentages.pdf](/presentations/GradePercentages.pdf)
 
 [Rotation.pdf](/presentations/Rotation.pdf)
