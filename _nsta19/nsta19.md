@@ -136,7 +136,25 @@ IIHS classroom for materials and labs based on driver safety
 
 * Levels of understanding define the grade, with different percents for mastery of each grade.
 
+## Mysteries
+  * Miracle of the day - have students record their own observations and then have them find explainations to some
+  * Make students develop their own questions with help and guidence
+  * Claim charts to help them guide their discussion.
+  * Students **must** revise a model for it to be a model.
+  * Zoom-in, have students add zoom ins to show what is physically happening on a smaller scale.  Such as gasses in a room, etc.
+  * Have students collect phenomena to demonstrate that they understand a concept.  If students can correctly identify relevent phenomena then they have the basic concept and ideas down correctly.
+  * Lookup QFT, the question formulation technique.
+  * Teach students how to read and give them a science lens.
 
+
+## Self-Paced Science
+  * "Studio Thinking" by Lois Hetland - The presenter was at an arts school so the whole school ran on a studio model.
+  * Was flexible because of the demands on the students time.
+  * Demo at the start of class to make sure that class started on time.
+  * Keys on the table so that the students could check their own work.
+  * Emphasized that the practice should always be right so that students don't 'learn' the wrong behaviors.
+  * Labs that can't be done fully at the time they are done.  Some of the analysis must be done later as students learn more. - similar to the revising of models.
+  * They had a supervised test room that the students could go take their test when ready.
 
 
 
