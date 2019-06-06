@@ -3,17 +3,16 @@ layout: default
 ---
 
 <div class="home">
-  
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
 
-  <!-- {%- if site.edu-iprs.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Instructional Planning Resources" }}</h2>
+  {%- if site.jchs.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "19/20 JCHS Physical Science Planning" }}</h2>
     <ul class="post-list">
-      {%- for lesson in site.edu-iprs -%}
+      {%- for lesson in site.jchs -%}
       <li>
         <h3>
           <a class="post-link" href="{{ lesson.url | relative_url }}">
@@ -28,23 +27,9 @@ layout: default
     </ul>
   {%- endif -%}
 
-  {%- if site.edu-standards.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Physical Science Standards" }}</h2>
-    <ul class="post-list">
-      {%- for lesson in site.edu-standards -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ lesson.url | relative_url }}">
-            {{ lesson.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ lesson.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%} -->
-  
+  {{ content }}
+
+
+
 
 </div>

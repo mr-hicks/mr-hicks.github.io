@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
 
 excerpt_separator: <!--more-->
-show_excerpts: false
+show_excerpts: true
 
 # Set the pages and order that appear in the header
 header_pages:
@@ -65,6 +65,8 @@ collections:
   researchPaper:
     output: true
   nsta19:
+    output: true
+  jchs:
     output: true
 
 # collections_dir: my_collections
