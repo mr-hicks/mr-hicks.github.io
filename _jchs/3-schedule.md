@@ -15,30 +15,59 @@ Then demonstrate our own projects to them at the end.
 <!--more-->
 # Fall - About 40 days
 ## Starting - 9 days
-  * Intro
-  * Bank Statemets
-  * Permeter Foundations of Science
-  * Note taking activities
-  * Setting up lab notebook
-  * IIHS Collision - 2 days, one build, one test
-    * HS-PS2-3. Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.*
-  * Model of an electron
-    * HS-PS4-3. Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.
-  * Board con - students teach students in mini-sessions
+No over arcing lab, instead end with two classroom lab activities.
+
+| Day | Description | Standard |
+| --- | ----------- | -------- |
+| 1 | Introductions ||
+| 2 | Bank statements | |
+| 3 | Permeter Foundations intro to science as models | |
+| 4 | Note taking activities | |
+| 5 | Setting up lab notebook | |
+| 6 | IIHS Collision | [HS-PS2-3](/edu-standards/2.3) |
+| 7 | IIHS Collision | |
+| 8 | Model of an electron Permieter | [HS-PS4-3](/edu-standards/4.3) |
+| 9 | Board Con | |
 
 ## Motion
 ### 2nd Law
-  * Lab - measure the acceleration due to gravity
-  * Standards
-    * HS-PS2-1. Analyze data to support the claim that Newton’s second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.
-    * ?? HS-ESS1-4. Use mathematical or computational representations to predict the motion of orbiting objects in the solar system.
+#### Lab - Measure the acceleration due to gravity
+Students can use various techniques to measure the acceleration due to gravity.
+Profeciency scales are based on the number of methods tried, as well as the number of trials.
+The idea being that it is a simple experiment that they should be able to go through multiple calculations.
+Possiblities include:
+
+  * Time of flight (provide the equation between time and g)
+  * Tracker - advanced
+  *
+
+#### Standards covered
+  * [HS-PS2-1](/edu-standards/2.1)
+  * [HS-ESS1-4]() - Use mathematical or computational representations to predict the motion of orbiting objects in the solar system.
+
+#### Day by day
+| Day | Description | Standard |
+| --- | ----------- | -------- |
+| 1 |  ||
+
 
 ### Conservation of Momentum
-  * Lab - Perfect bowling shot - which ball, where to hit
-  * Field trip - Bowling Alley?
-  * Standards
-    * HS-PS2-2. Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system.
+#### Lab - perfect bowling shot
+Students are familiar with the game of bowling.
+The question is, which ball, and where should it hit (assuming no spin for basic people) to knock down all of the pins.
+Tiers could be based off the number of pins involved.
+For example, for a cluster of two or three pins, where should it be hit?
 
+#### Field trip - Bowling? At the end of the unit take a day to the bowling alley to try it out?
+Or create our own version of bowling that we can do in the classroom?
+
+#### Standards
+  * [HS-PS2-2](/edu-standards/2.2)
+
+#### Day by day
+| Day | Description | Standard |
+| --- | ----------- | -------- |
+| 1 |  ||
 
 ### Conservation of Energy
   * Lab - One shot

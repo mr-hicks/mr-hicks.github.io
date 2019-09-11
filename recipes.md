@@ -16,4 +16,4 @@ permalink: /recipes/
   * [Chocolate Sheet Cake](/images/grammy-cake.pdf) (AKA Grammy Cake, opens as a PDF)
 
 # Savory
-  * 
+  * [Japanese Milk Bread](https://www.bakefromscratch.com/milk-bread/)
