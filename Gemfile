@@ -34,3 +34,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # updates indicated by github
 gem "nokogiri", ">= 1.8.5"
 
+gem "kramdown", ">= 2.3.0"
